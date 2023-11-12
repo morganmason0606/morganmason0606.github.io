@@ -1,0 +1,29 @@
+
+.intro{
+    text-align: center;
+    display: flex;
+    margin: auto;
+    max-width: 50em;
+    
+}
+
+.profile_pic{
+    height:20rem;
+    width:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+
+.leftColumn{
+    margin: auto;
+    max-width: 25em;
+
+}
+
+.rightColumn{
+    margin: auto;
+
+}
