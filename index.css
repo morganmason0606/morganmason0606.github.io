@@ -52,8 +52,9 @@ a {
     padding: 12px 0; /* Some top and bottom padding */
     transition: all 0.3s ease; /* Add transition for hover effects */
     color: white; /* White text color */
-    font-size: 36px; /* Increased font size */
     text-decoration: none;
+    text-size-adjust: auto;
+
   }
   
   .icon-bar a:hover {
@@ -71,6 +72,7 @@ a {
     transition: 0.3s;
     border-radius: 5px; /* 5px rounded corners */
     padding-left : 2ch;
+    padding-bottom : 1ch;
   }
     /* On mouse-over, add a deeper shadow */
   .display_card:hover {
