@@ -11,3 +11,89 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+body{
+  background-color: #1d2a35;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+/* intro*/
+.intro{
+  text-align: center;
+  display: flex;
+  margin: auto;
+  max-width: 50em;
+  
+}
+
+  .profile_pic{
+      height:20rem;
+      width:auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  
+  }
+
+
+  .leftColumn{
+      margin: auto;
+      max-width: 25em;
+
+  }
+
+  .rightColumn{
+      margin: auto;
+
+  }
+
+
+/* icon bar*/
+.icon-bar {
+  width: 100%; /* Full-width */
+  background-color: #282A35; /* Dark-grey background */
+  overflow: auto; /* Overflow due to float */
+}
+
+.icon-bar a {
+  float: left; /* Float links side by side */
+  text-align: center; /* Center-align text */
+  width: 25%; /* Equal width (5 icons with 20% width each = 100%) */
+  padding: 12px 0; /* Some top and bottom padding */
+  transition: all 0.3s ease; /* Add transition for hover effects */
+  color: white; /* White text color */
+  text-decoration: none;
+  text-size-adjust: auto;
+
+}
+
+.icon-bar a:hover {
+  background-color: #000; /* Add a hover color */
+}
+
+.active {
+  background-color: #04AA6D; /* Add an active/current color */
+}
+
+/* cards */
+.display_card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  background-color: #273948;
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+  padding-left : 2ch;
+  padding-bottom : 1ch;
+}
+  /* On mouse-over, add a deeper shadow */
+.display_card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.display_card p{
+
+  padding-left : 4ch;
+}
