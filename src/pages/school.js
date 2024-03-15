@@ -15,8 +15,8 @@ function School(){
                 and link layer protocols including Ethernet and wireless channels. 
             </p>
             <h3>Projects</h3>
-            <h4><a href="https://github.com/SubramaniamSatyen/CS118-Project2" target="_blank">Reliable Congestion Control</a></h4> <p>An implementatin of TCP using UDP and C++</p>
-            <h4><a href="https://github.com/SubramaniamSatyen/CS118-Project1" target="_blank">Server Implementation</a></h4> <p>An implementatin server for serving files using C++</p>
+            <h4><a href="https://github.com/SubramaniamSatyen/CS118-Project2" target="_blank" rel="noreferrer">Reliable Congestion Control</a></h4> <p>An implementatin of TCP using UDP and C++</p>
+            <h4><a href="https://github.com/SubramaniamSatyen/CS118-Project1" target="_blank" rel="noreferrer">Server Implementation</a></h4> <p>An implementatin server for serving files using C++</p>
         </div>
 
         <div class="display_card">
@@ -30,7 +30,7 @@ function School(){
                 applications using, and internals of, real-world operating systems.
             </p>
             <h3>Projects</h3>
-            <h4><a href="https://github.com/morganmason0606/cs111_lab4" target="_blank">EXT2 file system implementation</a></h4> <p>Implementing an EXT2 file system using C</p>
+            <h4><a href="https://github.com/morganmason0606/cs111_lab4" target="_blank" rel="noreferrer">EXT2 file system implementation</a></h4> <p>Implementing an EXT2 file system using C</p>
 
 
         </div>    
@@ -41,7 +41,7 @@ function School(){
                 Software practice through collaborative student project. 
             </p>
             <h3>Projects</h3>
-            <h4><a href="https://github.com/hiimvincent/bruin-ride-test" target="_blank">Full MERN Stack Website</a></h4> <p>Ride coordination web app created using the MERN stack</p>
+            <h4><a href="https://github.com/hiimvincent/bruin-ride-test" target="_blank" rel="noreferrer">Full MERN Stack Website</a></h4> <p>Ride coordination web app created using the MERN stack</p>
 
         </div>
         <div class="display_card">
