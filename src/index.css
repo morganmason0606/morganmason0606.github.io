@@ -68,7 +68,6 @@ a {
   transition: all 0.3s ease; /* Add transition for hover effects */
   color: white; /* White text color */
   text-decoration: none;
-  text-size-adjust: auto;
 
 }
 

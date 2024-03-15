@@ -16,12 +16,6 @@ function Project(){
                 <h2><a href="https://github.com/morganmason0606/coursera_meta_backend" target="_blank">Meta Back-End Developer Specialization</a></h2>
             </div>
             <div class="display_card">
-                <h2><a href="https://github.com/morganmason0606/coursera_meta_backend" target="_blank">Meta Back-End Developer Specialization</a></h2>
-            </div>
-            <div class="display_card">
-                <h2><a href="https://github.com/morganmason0606/agfzb-CloudAppDevelopment_Capstone" target="_blank">IBM Full Stack Software Developer Specialization</a></h2>
-            </div>
-            <div class="display_card">
                 <h2><a href="https://github.com/morganmason0606/agfzb-CloudAppDevelopment_Capstone" target="_blank">IBM Full Stack Software Developer Specialization</a></h2>
             </div>
             <div class="display_card">
