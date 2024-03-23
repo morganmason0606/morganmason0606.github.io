@@ -5,7 +5,21 @@ function School(){
         <>
         <h1>Notable Classes And School Projects</h1>
         <div class="card_list">
-        
+
+        <div class="display_card">
+            <h2>CS 131 : Programming Languages</h2>
+            <p>Basic concepts in design and use of programming languages, 
+                including abstraction, modularity, control mechanisms, 
+                types, declarations, syntax, and semantics. Study of 
+                several different language paradigms, including functional, 
+                object-oriented, and logic programming. Letter grading.
+            </p>
+            <h3>Projects</h3>
+            <h4><a href="https://github.com/morganmason0606/UCLA_CS131/tree/main/24W%20CS%20131%20HW2" target="_blank" rel="noreferrer">OCaml Parser</a></h4> <p>An implementatin of a parser using OCaml</p>
+            <h4><a href="https://github.com/morganmason0606/UCLA_CS131/tree/main/24W_CS131_HW4" target="_blank" rel="noreferrer">Prolog Problem Solver</a></h4> <p>An implementatin of a tower problem solver using prolog</p>
+            <h4><a href="https://github.com/morganmason0606/UCLA_CS131/tree/main/24W_CS131_Project" target="_blank" rel="noreferrer">Python Server</a></h4> <p>An implementatin of a server herd application implemented in Python</p>
+        </div>
+
         <div class="display_card">
             <h2>CS 118 : Computer Network Fundamentals</h2>
             <p>Introduction to design and performance evaluation of computer networks, 
