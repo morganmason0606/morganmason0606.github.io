@@ -2,9 +2,9 @@ import React from "react";
 
 function School(){
     return(
-        <>
-        <h1>Notable Classes And School Projects</h1>
-        <div class="card_list">
+<>
+    <h1>Notable Classes And School Projects</h1>
+    <div class="card_list">
 
         <div class="display_card">
             <h2>CS 131 : Programming Languages</h2>
@@ -74,8 +74,8 @@ function School(){
                 graphs and trees, induction.</p>
         </div>
         
-        </div>
-        </>
+    </div>
+</>
     )
 }
 export default School;
