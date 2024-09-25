@@ -1,27 +1,31 @@
 import React from "react";
 
 
-function Project(){
+function Project() {
     return (
         <>
-        <h1>Personal Projects and Self Learning</h1>
-        <div class="card_list">
-            <div class="display_card">
-                <h2>Machine Learning Specialization (DeepLearning.AI, Stanford University)</h2>
+            <h1>Personal Projects and Self Learning</h1>
+            <div class="card_list">
+                <div className="display_card">
+                    <h2><a href="https://github.com/morganmason0606/schedule_web_checker" target="_blank" rel="noreferrer">Github Actions Financial Report Reporter</a></h2>
+                </div>
+                <div class="display_card">
+                    <h2>Machine Learning Specialization (DeepLearning.AI, Stanford University)</h2>
+                </div>
+                <div class="display_card">
+                    <h2><a href="https://github.com/morganmason0606/meta-frontend-capstone" target="_blank" rel="noreferrer">Meta Front-End Developer Specialization</a></h2>
+                </div>
+                <div class="display_card">
+                    <h2><a href="https://github.com/morganmason0606/coursera_meta_backend" target="_blank" rel="noreferrer">Meta Back-End Developer Specialization</a></h2>
+                </div>
+                <div class="display_card">
+                    <h2><a href="https://github.com/morganmason0606/agfzb-CloudAppDevelopment_Capstone" target="_blank" rel="noreferrer">IBM Full Stack Software Developer Specialization</a></h2>
+                </div>
+                <div class="display_card">
+                    <h2><a href="https://github.com/morganmason0606/Coursera_IBM_AppliedDataScienceCapstone" target="_blank" rel="noreferrer">IBM Data Science Specialization</a></h2>
+                </div>
+
             </div>
-            <div class="display_card">
-                <h2><a href="https://github.com/morganmason0606/meta-frontend-capstone" target="_blank" rel="noreferrer">Meta Front-End Developer Specialization</a></h2>
-            </div>
-            <div class="display_card">
-                <h2><a href="https://github.com/morganmason0606/coursera_meta_backend" target="_blank" rel="noreferrer">Meta Back-End Developer Specialization</a></h2>
-            </div>
-            <div class="display_card">
-                <h2><a href="https://github.com/morganmason0606/agfzb-CloudAppDevelopment_Capstone" target="_blank">IBM Full Stack Software Developer Specialization</a></h2>
-            </div>
-            <div class="display_card">
-                <h2><a href="https://github.com/morganmason0606/Coursera_IBM_AppliedDataScienceCapstone" target="_blank">IBM Data Science Specialization</a></h2>
-            </div>
-        </div>
         </>
     );
 }
